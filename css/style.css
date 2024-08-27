@@ -126,7 +126,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    height: 313px;;
+    height: 267px;
     text-align: center;
     width: 100%;
 }
@@ -250,10 +250,4 @@ body {
         font-size: 30px;
         /* line-height: 10px; */
     }
-}
-.mapbackimg{
-    transform: skewY(-3deg);
-}
-.trans{
-    transform:skewY(3deg);
 }
